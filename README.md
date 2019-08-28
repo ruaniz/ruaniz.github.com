@@ -1,3 +1,3 @@
 # Family sites
 
-* [Reference Notes - Scott.Lee, Application Architect](arch.ruaniz.com)
+* [Reference Notes - Scott.Lee, Application Architect](http://arch.ruaniz.com)
