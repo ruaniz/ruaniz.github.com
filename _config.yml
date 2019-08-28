@@ -1,5 +1,9 @@
 title: ruaniz.com
 description: Ruan.Lee, 4th child, 2th son
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-midnight
+
+show_downloads: true
+
+google_analytics:
+google_ads:
