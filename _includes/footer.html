@@ -1,12 +1,6 @@
 <footer>
-  <a href="https://creativecommons.org/licenses/by-nc/3.0/deed.en_US">
-    <span>
-        <b>{{ site.owner}}</b>
-    </span>
-    {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
-    <span>© {{ currentyear }}</span>
-  </a>
-  © 2016 Your Name <a href="#">Privacy link</a> - Powered by Jekyll.
+  {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+  Copyright ⓒ 2014-{{ currentyear }} °{{ site.owner}}™. Verbatim copying and distribution of this entire article are permitted worldwide, without royalty, in any medium, provided this notice, and the copyright notice, are preserved.
 </footer>
 {% if site.google_analytics %}
   <script>
