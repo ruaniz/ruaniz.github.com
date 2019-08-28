@@ -1,2 +1,1 @@
-# ruaniz.github.com
-
+# Reference Notes - Scott.Lee, Application Architect : arch.ruaniz.com
