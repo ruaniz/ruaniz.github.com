@@ -1,7 +1,7 @@
 ## About
 
 {: style="text-align:center"}
-![](/assets/images/ruan_01.png)
+![](/assets/images/ruan_01.png =100x100)
 ![](/assets/images/yerim_01.png)
 ![](/assets/images/yerim.n.ruan_01.png)
 
